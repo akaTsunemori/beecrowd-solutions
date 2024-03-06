@@ -1,12 +1,18 @@
 <p align="center">
-    <img src="https://www.gravatar.com/avatar/826331d4859c83873d59d844348d1be5?s=125&d=robohash&r=g" width="100px"></br>
+    <img src="https://www.gravatar.com/avatar/826331d4859c83873d59d844348d1be5?s=125&d=robohash&r=g"></br>
     <a href="https://www.beecrowd.com.br/judge/pt/profile/565803">Tsunemori @ beecrowd</a>
 </p>
 
 # beecrowd-solutions
-A record of my problem solving journey @ https://www.beecrowd.com.br/.
+A record of my problem solving journey at https://www.beecrowd.com.br/, a detailed log of my adventures through the intricate and challenging world of competitive programming, particularly through the problems hosted on beecrowd. This space is more than just a collection of code; it's a testament to the journey of learning, problem-solving, and personal growth.
 
-## Solutions
+The primary aim of maintaining this repository is to track my progress, reflect on my learning curve, and share my solutions with the community. I hope to inspire fellow programmers to embark on their problem-solving journeys and provide a resource for those seeking guidance or verification of their approaches.
+
+Remember, the essence of competitive programming lies in the journey, not just the destination. It's about the thought process, the strategy, and the relentless pursuit of improvement. So, dive in, enjoy the challenges, and may this repository serve as a valuable companion on your programming odyssey.
+
+I welcome feedback, suggestions, and collaborations to make this repository a richer resource. Happy coding!
+
+# Solutions
 |Python               |C++                     |SQL                     |
 |---------------------|------------------------|------------------------|
 |[1000.py](py/1000.py)|[1000.cpp](cpp/1000.cpp)|[2602.sql](sql/2602.sql)|
