@@ -591,7 +591,7 @@ Below, you will encounter structured tables designed to navigate you through thi
 </details>
 
 # License
-GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE<br>
 Version 2, June 1991
 
 ---
