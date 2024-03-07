@@ -13,6 +13,8 @@ Remember, the essence of competitive programming lies in the journey, not just t
 I welcome feedback, suggestions, and collaborations to make this repository a richer resource. Happy coding!
 
 # Solutions
+Below, you will encounter structured tables designed to navigate you through this repository efficiently. Each table is organized into columns, listing the problem ID, a direct link to my solution, the title of the problem, and a direct link to the problem on beecrowd.
+
 ## Python
 <details>
     <summary>Spoiler</summary>
@@ -588,3 +590,10 @@ I welcome feedback, suggestions, and collaborations to make this repository a ri
     
 </details>
 
+# License
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+---
+
+> GitHub [@akaTsunemori](https://github.com/akaTsunemori)
